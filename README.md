@@ -12,6 +12,6 @@ Respostas personalizadas de acordo com o banco de dados
 
 ## 🎥 Demonstração
 
-[![Clique para assistir](./foto.jpg)](https://drive.google.com/file/d/1lrEoTMWxJRVK-zBlrurpWnJfF8hAZmXM/view?usp=sharing)
+[![Clique para assistir]()](https://drive.google.com/file/d/1lrEoTMWxJRVK-zBlrurpWnJfF8hAZmXM/view?usp=sharing)
 
 
